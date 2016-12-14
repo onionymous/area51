@@ -1,2 +1,3 @@
 # area51
-polygons are spoopy
+polygons are spoopy.
+http://azspcs.com/Contest/PolygonalAreas
